@@ -270,4 +270,7 @@ h5 {
 		margin-bottom: 8rem;
  		margin-right: 44rem;
 	}
+	p,h5 {
+		margin: 0 14rem;
+	}
 }
